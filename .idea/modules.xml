@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sql_in_python.iml" filepath="$PROJECT_DIR$/.idea/sql_in_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning_sql_in_python.iml" filepath="$PROJECT_DIR$/.idea/learning_sql_in_python.iml" />
     </modules>
   </component>
 </project>
